@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Muse Photo]]></title>
         <description><![CDATA[Muse Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/muse-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 02:51:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 02:57:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/muse-photo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28dd3e4c-32be-439b-880a-2351a70b7fd0.jpg">]]></description>
-            <link>undefined3b389e6f-76c0-43f0-bbca-d016418e11d4/index.html</link>
+            <link>https://thegrid.ai/muse-photo/3b389e6f-76c0-43f0-bbca-d016418e11d4/index.html</link>
             <guid isPermaLink="false">3b389e6f-76c0-43f0-bbca-d016418e11d4</guid>
-            <pubDate>Wed, 10 Feb 2016 02:50:56 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 02:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
