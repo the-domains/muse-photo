@@ -1,7 +1,7 @@
 name: Muse Photo
 favicon: null
-layout_spectrum: 0.46146
-typography_spectrum: 0.4421
+layout_spectrum: 0.75742
+typography_spectrum: 0.73358
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#404040'
-    - '#7a7a7a'
-    - '#c9c9c9'
-    - '#232323'
+    - '#525252'
+    - '#7c7c7c'
+    - '#d8d8d8'
+    - '#0b0b0b'
+    - '#e77ed0'
   brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
