@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Muse Photo]]></title>
         <description><![CDATA[Muse Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/muse-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 03:30:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 03:36:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/muse-photo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Muse Photo]]></title>
-            <description><![CDATA[<article><h1>Muse Photo</h1><p>Muse: is to consider something thoughtfully. A source of artistic inspiration. I find myself inspired by many things but in life my children are my muse. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2be761baeafae02bbf057c4c3caf6004e988cdcd.jpg"></article>]]></description>
-            <link>undefinedmuse-photo/index.html</link>
+            <description><![CDATA[<article><h1>Muse Photo</h1><p>Muse: is to consider something thoughtfully. A source of artistic inspiration. I find myself inspired by many things but in life my children are my muse. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ae62456fef48292175881303de480895929e5b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/muse-photo/muse-photo/index.html</link>
             <guid isPermaLink="false">3b389e6f-76c0-43f0-bbca-d016418e11d4</guid>
-            <pubDate>Thu, 11 Feb 2016 03:29:40 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 03:34:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
