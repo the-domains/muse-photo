@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T03:57:04.823Z'
-dateModified: '2016-02-11T03:57:01.060Z'
+datePublished: '2016-02-28T22:59:36.580Z'
+dateModified: '2016-02-28T22:52:56.764Z'
 title: Flowers and More
 author: []
 sourcePath: _posts/2016-02-11-flowers-and-more.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: flowers-and-more/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Flowers and more flowers and a bug. ;)
