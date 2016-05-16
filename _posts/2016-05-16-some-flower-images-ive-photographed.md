@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Some flower images I've photographed."
-datePublished: '2016-05-16T05:27:19.972Z'
-dateModified: '2016-05-16T05:26:30.076Z'
+datePublished: '2016-05-16T05:31:32.986Z'
+dateModified: '2016-05-16T05:31:14.589Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-some-flower-images-ive-photographed.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
