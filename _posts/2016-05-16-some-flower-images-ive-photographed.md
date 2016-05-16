@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Some flower images I've photographed."
-datePublished: '2016-05-16T05:31:32.986Z'
-dateModified: '2016-05-16T05:31:14.589Z'
+datePublished: '2016-05-16T05:45:09.685Z'
+dateModified: '2016-05-16T05:44:59.606Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-some-flower-images-ive-photographed.md
@@ -24,6 +24,6 @@ _type: Blurb
 Some flower images I've photographed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/852dda31-5077-4006-ae6b-481dd21ef9e6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9ab8514-9b77-4b27-85af-2466f75ce0ae.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ed91933-a696-4a8b-a05e-7a59f7534336.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec32a555b52e019a86e5a2b8a9010119267fee20.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f958448-67b8-4395-ad96-3c81055279e0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c4ab53-0c3a-41e6-baba-235747a0e54c.jpg)
