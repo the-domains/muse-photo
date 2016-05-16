@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "My daughter is graduating high school so we did senior portraits together. We did traditional portraits that were in her graduation dress with inspiration being the 50's or 60's. Then we also did some fun senior portraits in anime cosplay as a character named Mizore. This is something she enjoys doing and she loves going to the anime and the Cherry Blossom Festival in our area. These are some of the images I liked from her sessions."
-datePublished: '2016-05-16T05:21:26.350Z'
-dateModified: '2016-05-16T05:21:12.793Z'
+datePublished: '2016-05-16T05:28:19.596Z'
+dateModified: '2016-05-16T05:27:36.358Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-16-my-daughter-is-graduating-high-school-so-we-did-senior-portr.md
+starred: false
 _type: Blurb
 
 ---
