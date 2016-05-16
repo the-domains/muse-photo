@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: "Some flower images I've photographed."
-datePublished: '2016-05-16T05:49:25.062Z'
-dateModified: '2016-05-16T05:49:13.468Z'
+datePublished: '2016-05-16T05:50:59.769Z'
+dateModified: '2016-05-16T05:49:27.490Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-some-flower-images-ive-photographed.md
@@ -18,7 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: Blurb
+url: some-flower-images-ive-photographed/index.html
+_type: Article
 
 ---
 Some flower images I've photographed.
