@@ -9,8 +9,8 @@ description: >-
   years. They're lower resolution for web viewing and site content. If you'd
   like to see a few image that are better resolution please message me at
   lynnbatdorf@yahoo.com. 
-datePublished: '2016-07-25T14:16:51.928Z'
-dateModified: '2016-07-25T14:16:33.093Z'
+datePublished: '2016-07-25T14:19:16.376Z'
+dateModified: '2016-07-25T14:19:11.963Z'
 title: Wedding Images
 author:
   - name: Rebecca Batdorf
