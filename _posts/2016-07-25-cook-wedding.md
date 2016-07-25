@@ -9,8 +9,8 @@ description: >-
   years. They're lower resolution for web viewing and site content. If you'd
   like to see a few image that are better resolution please message me at
   lynnbatdorf@yahoo.com. 
-datePublished: '2016-07-25T14:05:21.213Z'
-dateModified: '2016-07-25T14:05:17.983Z'
+datePublished: '2016-07-25T14:05:52.152Z'
+dateModified: '2016-07-25T14:05:29.633Z'
 title: Johnson Wedding Flowers
 author:
   - name: Rebecca Batdorf
@@ -18,9 +18,7 @@ author:
 via: {}
 sourcePath: _posts/2016-07-25-cook-wedding.md
 authors: []
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 starred: false
 url: cook-wedding/index.html
 _type: Article
