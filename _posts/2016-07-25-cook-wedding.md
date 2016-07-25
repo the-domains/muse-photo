@@ -9,8 +9,8 @@ description: >-
   years. They're lower resolution for web viewing and site content. If you'd
   like to see a few image that are better resolution please message me at
   lynnbatdorf@yahoo.com. 
-datePublished: '2016-07-25T14:08:12.764Z'
-dateModified: '2016-07-25T14:08:03.572Z'
+datePublished: '2016-07-25T14:12:06.923Z'
+dateModified: '2016-07-25T14:11:54.766Z'
 title: Wedding Images
 author:
   - name: Rebecca Batdorf
@@ -18,7 +18,9 @@ author:
 via: {}
 sourcePath: _posts/2016-07-25-cook-wedding.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  url: ''
 starred: false
 url: cook-wedding/index.html
 _type: Article
