@@ -9,20 +9,16 @@ description: >-
   years. They're lower resolution for web viewing and site content. If you'd
   like to see a few image that are better resolution please message me at
   lynnbatdorf@yahoo.com. 
-datePublished: '2016-07-25T14:01:43.619Z'
-dateModified: '2016-07-25T14:01:39.231Z'
-title: Cook Wedding
+datePublished: '2016-07-25T14:02:56.515Z'
+dateModified: '2016-07-25T14:02:17.634Z'
+title: Johnson Wedding 3
 author:
   - name: Rebecca Batdorf
     url: ''
 via: {}
 sourcePath: _posts/2016-07-25-cook-wedding.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: false
 url: cook-wedding/index.html
 _type: Article
