@@ -4,21 +4,21 @@
         <description><![CDATA[Muse Photo]]></description>
         <link>https://thegrid.ai/muse-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 14:16:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse-photo/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Wedding Images]]></title>
-            <description><![CDATA[<article><h1>Wedding Images</h1><p>Some weddings photography I (Rebecca Batdorf) have photographed over the years. They're lower resolution for web viewing and site content. If you'd like to see a few image that are better resolution please message me at lynnbatdorf@yahoo.com. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bce1edc2-89ee-4f61-86d6-67a6c4b02de2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/muse-photo/cook-wedding/index.html</link>
-            <guid isPermaLink="false">6fe79fee-aaf2-4cb0-8065-ed5ab8c7ed04</guid>
-            <pubDate>Mon, 25 Jul 2016 14:16:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Muse Photo]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ae62456fef48292175881303de480895929e5b.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/muse-photo/muse-photo/index.html</link>
             <guid isPermaLink="false">3b389e6f-76c0-43f0-bbca-d016418e11d4</guid>
             <pubDate>Mon, 02 May 2016 04:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wedding Images]]></title>
+            <description><![CDATA[<article><h1>Wedding Images</h1><p>Some weddings photography I (Rebecca Batdorf) have photographed over the years. They're lower resolution for web viewing and site content. If you'd like to see a few image that are better resolution please message me at lynnbatdorf@yahoo.com. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bce1edc2-89ee-4f61-86d6-67a6c4b02de2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/muse-photo/cook-wedding/index.html</link>
+            <guid isPermaLink="false">6fe79fee-aaf2-4cb0-8065-ed5ab8c7ed04</guid>
+            <pubDate>Mon, 25 Jul 2016 14:16:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
