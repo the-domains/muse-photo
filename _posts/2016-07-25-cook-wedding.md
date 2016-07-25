@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Robinson Flowers
-datePublished: '2016-07-25T14:36:17.870Z'
-dateModified: '2016-07-25T14:34:24.612Z'
+datePublished: '2016-07-25T14:36:44.278Z'
+dateModified: '2016-07-25T14:36:33.707Z'
 title: Wedding Images
 author:
   - name: Rebecca Batdorf
@@ -15,7 +15,7 @@ via: {}
 sourcePath: _posts/2016-07-25-cook-wedding.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: cook-wedding/index.html
 _type: Article
 
