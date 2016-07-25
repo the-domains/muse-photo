@@ -4,8 +4,15 @@
         <description><![CDATA[Muse Photo]]></description>
         <link>https://thegrid.ai/muse-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 14:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 14:19:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muse-photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flowers and More]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39d33cdda4ad2e3996e13c35f04a79af31aab98c.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/muse-photo/flowers-and-more/index.html</link>
+            <guid isPermaLink="false">22b3403e-8b88-4f4d-957c-5a8f364701e5</guid>
+            <pubDate>Mon, 25 Jul 2016 14:19:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Muse Photo]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ae62456fef48292175881303de480895929e5b.jpg" alt="" title="">]]></description>
